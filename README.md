@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![100-days-of-code](https://socialify.git.ci/OrganizedFellow/100-days-of-code/image?font=Source%20Code%20Pro&language=1&owner=1&pattern=Signal&stargazers=1&theme=Dark)
+
+I'm afraid there isn't really much to see here, but as I make progress on my projects, I will be sure to update this more often 😉
