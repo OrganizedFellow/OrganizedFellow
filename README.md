@@ -29,3 +29,4 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 -   -   I am a huge fan of Google and their old Nexus phones and their current Pixel line. Currently I have the Pixel 4a 5G. I've owned at least 8 of their devices.
 -   -   My laptop is a Thinkpad E590 with 32GB RAM with a combined storage of 1.5TB on two SSDs.
 -   -   I've used Linux far longer than I've used Windoze. Over 15 years ago I started on Suse, Mandrake, Ubuntu and later ventured into Arch, Manjaro, Crunchbang, a minumal Debian install with i3WM and now Pop OS 21.04. I've stopped distro-hopping after this current one.
+- - Really enjoying tmux + Alacritty + starship.rs
