@@ -1,4 +1,4 @@
-### Hi, Hola, Hello, Howdy 👋
+### Hey, Hi, Hola, Hello, Howdy 👋
 
 <!--
 **OrganizedFellow/OrganizedFellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
