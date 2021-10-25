@@ -30,3 +30,7 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 - - 💻 My laptop is a Thinkpad E590 with 32GB RAM with a combined storage of 1.5TB on two SSDs.
 - - 🐧 I've used Linux far longer than I've used Windows. Over 15 years ago I started on Suse, Mandrake, Crunchbang and later ventured into Arch, Manjaro, a minumal Debian install with i3WM, every Ubuntu derivative and now Pop OS 21.04. I've stopped distro-hopping after this current one.
 - - 🥇 Really enjoying tmux + Kitty + starship.rs
+
+---
+
+![Metrics](https://github.com/jjaimealeman/jjaimealeman/blob/main/github-metrics.svg)
