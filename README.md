@@ -28,7 +28,7 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 - - 🍜 I eat a bowl of Ramen most nights while coding.
 - - 📱I am a huge fan of Google and their old Nexus phones and their current Pixel line. Currently I have the Pixel 4a 5G. I've owned at least 8 of their devices.
 - - 💻 My laptop is a Thinkpad E590 with 32GB RAM with a combined storage of 1.5TB on two SSDs.
-- - 🐧 I've used Linux far longer than I've used Windows. Over 15 years ago I started on Suse, Mandrake, Crunchbang and later ventured into Arch, Manjaro, a minumal Debian install with i3WM, every Ubuntu derivative and now Pop OS 21.04. I've stopped distro-hopping after this current one.
+- - 🐧 I've used Linux far longer than I've used Windows. Over 15 years ago I started on Suse, Mandrake, Crunchbang and later ventured into Arch, Manjaro, a minimal Debian install with i3WM, every Ubuntu derivative and now Pop OS 21.04. I've stopped distro-hopping after this current one.
 - - 🥇 Really enjoying tmux + Kitty + starship.rs
 
 ---
