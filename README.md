@@ -34,5 +34,3 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 ---
 
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/2044?logoColor=white%26project=%26recentMS=0%26showProject=false)
-
-![Metrics](https://github.com/jjaimealeman/jjaimealeman/blob/main/github-metrics.svg)
