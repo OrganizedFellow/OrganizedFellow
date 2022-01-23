@@ -22,7 +22,7 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 - 🔭 I’m currently working on mastering Nuxt! **The deeper I go, the deeper I go**.
 - - I finished the [NuxtJS Fundamentals video](https://vueschool.io/courses/). It is a really well thought-out Intro to Nuxt! 👍
 - - Also did [this tutorial from nuxtjs.org](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/) where I created a simple Blog and styled it with TailwindCSS.
-- 🌱 I am also currently enrolled in [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/). My completion rate is at _34%_.
+- 🌱 I am also currently enrolled in [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/). My completion rate is at _~~34%~~_ _45%_.
 - 💬 Ask me about ... ☕ coffee? I used to roast my own beans. 🍺 My favorite beers are IPA, stouts, and hefeweizens! Annnd I have two amazingly brilliant beautiful daughters 💑 .
 - ⚡ Fun facts: ...
 - - 🍜 I eat a bowl of Ramen most nights while coding.
