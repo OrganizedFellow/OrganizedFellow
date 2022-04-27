@@ -2,7 +2,7 @@
 
 I'm afraid there isn't really much to see here, but as I make progress on my projects, I will be sure to update this more often 😉
 
-- 🔭 I’m currently working on mastering Nuxt! **The deeper I go, the deeper I go**.
+- 🔭 I’m currently working on ~~mastering~~ _learning_ Nuxt! **The deeper I go, the deeper I go**.
 - - I finished the [NuxtJS Fundamentals video](https://vueschool.io/courses/). It is a really well thought-out Intro to Nuxt! 👍
 - - Also did [this tutorial from nuxtjs.org](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/) where I created a simple Blog and styled it with TailwindCSS.
 - 🌱 I am also currently enrolled in [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/). My completion rate is at _~~34%~~_ _45%_.
