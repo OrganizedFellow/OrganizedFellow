@@ -18,15 +18,15 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 
 <!-- https://www.profileme.dev/ -->
 
-Hi 👋 My name is JJaimeAleman
+My name is Jaime Aleman.
 =============================
 
-Freelance Web Developer.
+I am Freelance Web Developer.
 ------------------------
 
-Making the jump soon towards LLC.
+Making the jump soon towards LLC, to offer Web Development & Design Services to local area businesses in El Paso, TX.
 
-*   🌍 I'm based in El Paso TX
+*   🌍 I've lived in El Paso for over 30 years.
 *   🧠 I'm learning Learning Vue & Nuxt.
 
 ### Skills
