@@ -7,7 +7,7 @@ I'm afraid there isn't really much to see here, but as I make progress on my pro
 - - Also did [this tutorial from nuxtjs.org](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content/) where I created a simple Blog and styled it with TailwindCSS.
 - 🌱 I am also currently enrolled in [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/). My completion rate is at _~~34%~~_ _45%_.
 
-- 💬 Ask me about ... 
+- 💬 Ask me about ...
 - - ☕ Coffee? I used to roast my own beans. My favorites include Ethiopian and Columbian blends.
 - - 🍺 My favorite beers are IPAs, stouts, and hefeweizens!
 - - 💑 I have two amazingly brilliant beautiful teen daughters.
@@ -37,18 +37,6 @@ Making the jump soon towards LLC, to offer Web Development & Design Services to 
 ### Skills
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" />
     </a>
@@ -57,6 +45,14 @@ Making the jump soon towards LLC, to offer Web Development & Design Services to 
     </a>
     <a href="https://supabase.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+    </a>
+
+<a href="https://directus.io/" target="_blank" rel="noreferrer">
+    <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/15967950?s=200&amp;v=4" alt="@directus" width="36" height="36">
+</a>
+
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
