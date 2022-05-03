@@ -46,11 +46,9 @@ Making the jump soon towards LLC, to offer Web Development & Design Services to 
     <a href="https://supabase.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
     </a>
-
-<a href="https://directus.io/" target="_blank" rel="noreferrer">
-    <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/15967950?s=200&amp;v=4" alt="@directus" width="36" height="36">
-</a>
-
+    <a href="https://directus.io/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/15967950?s=200&amp;v=4" alt="@directus" width="36" height="36" />
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
     </a>
